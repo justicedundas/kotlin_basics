@@ -1,1 +1,1 @@
-Old notes from kotlin course for android dev. 
+Old notes on kotlin for android dev. 
